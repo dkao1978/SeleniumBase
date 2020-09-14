@@ -128,7 +128,7 @@ setup(
         'pytest-xdist==1.34.0;python_version<"3.5"',
         'pytest-xdist==2.1.0;python_version>="3.5"',
         'parameterized==0.7.4',
-        'soupsieve==1.9.6;python_version<"3.5"',
+        'soupsieve==1.9.6',
         'beautifulsoup4==4.9.1',
         'cryptography==3.0;python_version<"3.6"',
         'cryptography==3.1;python_version>="3.6"',
